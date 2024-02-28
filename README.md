@@ -44,7 +44,7 @@ Admin interface for adding and managing diverse travel offerings.
 Keep the catalog dynamic and ever-expanding with new and exciting packages.
 
 
-## Deployment
+## Deployed Link
 https://65ae04d77f6077f381dc06a8--cheery-sprite-5f8d56.netlify.app/
 
 
